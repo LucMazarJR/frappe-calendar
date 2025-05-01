@@ -1,0 +1,20 @@
+{
+  "name": "scheduling_system",
+  "version": "1.0.0",
+  "description": "System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucMazarJR/frappe-calendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucMazarJR/frappe-calendar/issues"
+  },
+  "homepage": "https://github.com/LucMazarJR/frappe-calendar#readme"
+}
